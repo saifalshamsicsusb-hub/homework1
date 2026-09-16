@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-label="Diwan Homes Dubai — monochrome">
+  <title>Diwan Homes — Dubai (monochrome)</title>
+
+  <g transform="translate(400 340)">
+    <rect x="-190" y="-190" width="380" height="380" rx="26" fill="#111111"/>
+    <rect x="-170" y="-170" width="340" height="340" rx="18" fill="none" stroke="#FFFFFF" stroke-width="2" opacity="0.55"/>
+
+    <path d="
+      M -130 130
+      L -130 -10
+      C -130 -80  -70 -130   0 -130
+      C  70 -130  130 -80   130 -10
+      L  130 130
+      Z
+      M -70 130
+      L -70 -10
+      C -70 -50  -40 -80    0 -80
+      C  40 -80   70 -50    70 -10
+      L  70 130
+      Z
+    " fill="#FFFFFF" fill-rule="evenodd"/>
+
+    <path d="
+      M -55 130
+      L -55  10
+      L   0 -38
+      L  55  10
+      L  55 130
+      Z
+    " fill="#FFFFFF"/>
+
+    <rect x="-14" y="60" width="28" height="70" rx="4" fill="#111111"/>
+
+    <circle cx="0" cy="-150" r="8" fill="#FFFFFF"/>
+  </g>
+
+  <g text-anchor="middle" fill="#111111">
+    <text x="400" y="640"
+          font-family="'Cormorant Garamond', Georgia, 'Times New Roman', serif"
+          font-size="120" font-weight="600" letter-spacing="18">DIWAN</text>
+    <text x="400" y="700"
+          font-family="Inter, 'Segoe UI', Arial, sans-serif"
+          font-size="30" font-weight="500" letter-spacing="14">HOMES &#183; DUBAI</text>
+  </g>
+</svg>
